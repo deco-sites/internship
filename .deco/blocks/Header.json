@@ -1,5 +1,10 @@
 {
   "__resolveType": "site/sections/Header.tsx",
-  "title": "<p>Click here to tweak this text however you want.</p>",
-  "description": "<p>This text is entirely editable, tailor it freely.</p>"
+  "title": "<p>unstop</p>",
+  "description": "<p style=\"text-align: center\"><span style=\"color: rgba(0, 0, 0, 0.9); font-size: 16px\">Imagine saving time &amp; resources to hire talent while assessing them and branding yourself. At Unstop, we've made it all possible for 800 companies and counting. Explore our digital playground of opportunities where 10,000,000+ students and early talent are ready to be discovered, engaged and hired while we build a robust brand strategy for you. Trust us to help you find the right candidate through competitions utilising our AI-enabled proctored tools that ensure unbiased results. What's more? We are creating an impactful community that is learning, practising, getting mentored and is ready to start their career journey with you. This is the true essence of Unstop. Unstop. A digital playground, where talent meets opportunities.</span></p>",
+  "logo": {
+    "img": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/9b7b7b76-9026-4b8e-a245-ddbc0fc809f0",
+    "alt": "logo",
+    "link": "https://unstop.com/hackathons?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl"
+  }
 }

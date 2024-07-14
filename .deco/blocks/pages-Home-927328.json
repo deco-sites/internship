@@ -2,12 +2,101 @@
   "name": "Home",
   "path": "/",
   "sections": [
-    { "__resolveType": "Header" },
-    { "__resolveType": "site/sections/Social.tsx" },
-    { "__resolveType": "site/sections/Links.tsx" },
-    { "__resolveType": "site/sections/Image.tsx" },
-    { "__resolveType": "site/sections/Links.tsx" },
-    { "__resolveType": "Footer" }
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Social.tsx",
+      "social": []
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx",
+      "links": [
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/c75552ff-4d06-40a3-9ef8-a943f0bbbdb2"
+          },
+          "href": "https://unstop.com/o/6E02Xpo?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl",
+          "label": "Entropy - Vellore Institute of Technology, Chennai"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/ad815360-8cd4-4f72-b7f1-006b3c7b6462"
+          },
+          "href": "https://unstop.com/o/DKRErJn?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl",
+          "label": "Skitech: Innothon 2K24 - Shivajirao Kadam Institute of Technology & Management - Technical Campus, Indore (SKITM)"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/db736158-1d11-4f3d-9bde-0d8f359780e9"
+          },
+          "href": "https://unstop.com/o/HL9fSpw?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl",
+          "label": "Sparrowthon - Techdome Solutions Pvt. Ltd"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/4f04d2a9-4d7e-4db1-b918-b13bc562693f"
+          },
+          "label": "Hackothsava - 2k24 - Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM), Shankarapura, Karnataka",
+          "href": "https://unstop.com/o/1vYfRCI?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/76e5c510-a769-42e5-9051-fb598d14c587"
+          },
+          "href": "https://unstop.com/o/wXPN8HG?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl",
+          "label": "Flipkart GRiD 6.0 - Robotics Challenge Flipkart"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Image.tsx",
+      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/f75baa43-2a29-4626-9c24-84fff2c8d1d4",
+      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/42c9cfb6-abc5-4905-ab57-9b3f62a77700"
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx",
+      "links": [
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/76e5c510-a769-42e5-9051-fb598d14c587"
+          },
+          "href": "https://unstop.com/o/wXPN8HG?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl",
+          "label": "Flipkart GRiD 6.0 - Robotics Challenge Flipkart"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/c75552ff-4d06-40a3-9ef8-a943f0bbbdb2"
+          },
+          "href": "https://unstop.com/o/6E02Xpo?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl",
+          "label": "Entropy - Vellore Institute of Technology, Chennai"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/ad815360-8cd4-4f72-b7f1-006b3c7b6462"
+          },
+          "label": "Skitech: Innothon 2K24 - Shivajirao Kadam Institute of Technology & Management - Technical Campus, Indore (SKITM)",
+          "href": "https://unstop.com/o/DKRErJn?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/db736158-1d11-4f3d-9bde-0d8f359780e9"
+          },
+          "label": "Sparrowthon - Techdome Solutions Pvt. Ltd",
+          "href": "https://unstop.com/o/HL9fSpw?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/4f04d2a9-4d7e-4db1-b918-b13bc562693f"
+          },
+          "href": "https://unstop.com/o/1vYfRCI?lb=70BMsNY&utm_medium=Share&utm_source=shortUrl",
+          "label": "Hackothsava - 2k24 - Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM), Shankarapura, Karnataka"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer"
+    }
   ],
   "__resolveType": "website/pages/Page.tsx"
 }
