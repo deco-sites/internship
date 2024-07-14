@@ -9,9 +9,10 @@
     "titleTemplate": "Unstop - Your Partner",
     "descriptionTemplate": "%s",
     "type": "website",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4959/294a9bca-e8f0-427c-baca-95fa8cf30207",
-    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4959/f9b953ba-0be5-46f8-82e8-5254235232ec",
-    "title": "unstop"
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/40e46572-18f7-4b66-b55c-055d1a040729",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11789/cdcea602-89cd-4cfb-b4c5-abd46ad79a31",
+    "title": "unstop",
+    "description": "Unstop is an engagement and hiring platform with 10 Mn+ students, 20,000+ colleges and 800+ brands"
   },
   "global": [
     {
